@@ -1,0 +1,13 @@
+current directory: /Users/Wendy/Development/code/sinatra-activerecord-setup-nyc-web-091718/vendor/bundle/gems/json-1.8.6/ext/json
+/Users/Wendy/.rvm/rubies/ruby-2.3.3/bin/ruby -r ./siteconf20181009-51262-38ui5s.rb extconf.rb
+creating Makefile
+
+current directory: /Users/Wendy/Development/code/sinatra-activerecord-setup-nyc-web-091718/vendor/bundle/gems/json-1.8.6/ext/json
+make "DESTDIR=" clean
+
+current directory: /Users/Wendy/Development/code/sinatra-activerecord-setup-nyc-web-091718/vendor/bundle/gems/json-1.8.6/ext/json
+make "DESTDIR="
+make: Nothing to be done for `all'.
+
+current directory: /Users/Wendy/Development/code/sinatra-activerecord-setup-nyc-web-091718/vendor/bundle/gems/json-1.8.6/ext/json
+make "DESTDIR=" install
